@@ -1,4 +1,4 @@
-<h1>Hey! I'm Jyoti Garde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hey!<br/>I'm Jyoti Garde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQHU0Wlv38p1Bw/profile-displaybackgroundimage-shrink_350_1400/0/1638130328398?e=1643846400&v=beta&t=n5n8XfaArclHbDqQvlmKczSeiZnackr1eecubfm-wuE">
 👨‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻 I'm interested in Web Development and Open-Source-Contribution. <br />
