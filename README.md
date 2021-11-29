@@ -1,10 +1,15 @@
-<h1>Hey!<br/>I'm Jyoti Garde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHU0Wlv38p1Bw/profile-displaybackgroundimage-shrink_350_1400/0/1638130328398?e=1643846400&v=beta&t=n5n8XfaArclHbDqQvlmKczSeiZnackr1eecubfm-wuE">
-👨‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
-💻 I'm interested in Web Development and Open-Source-Contribution. <br />
+# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Jyoti Garde](https://github.com/JyotiGarde-27)
+
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQHf9XQv9qBp4Q/profile-displaybackgroundimage-shrink_350_1400/0/1638175781436?e=1643846400&v=beta&t=2a3_L9IHrFynRv0E64YmBLGgcCSZYDTEfyKg-tnu2sM">
+
+👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
+💻 I'm interested in Web Development and Open-Source Contribution. <br />
 🚀 Learning and Exploring Web Development.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiGarde-27"/>
+---
+
+|<img src="https://github-readme-stats.vercel.app/api?username=JyotiGarde-27&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiGarde-27&theme=tokyonight"/>|
+|---|---|
 
  ## Connect with me  
 <div align="center">
