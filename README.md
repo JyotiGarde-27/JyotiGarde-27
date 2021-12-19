@@ -1,6 +1,6 @@
 # Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Jyoti Garde](https://github.com/JyotiGarde-27)
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHf9XQv9qBp4Q/profile-displaybackgroundimage-shrink_350_1400/0/1638175781436?e=1643846400&v=beta&t=2a3_L9IHrFynRv0E64YmBLGgcCSZYDTEfyKg-tnu2sM">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFjk15JoWgrww/profile-displaybackgroundimage-shrink_350_1400/0/1639939424016?e=1645660800&v=beta&t=Nsv3Zrtds6yd9EQXd27lSus2sw3Vu4WFKgRRlMw7Jqs">
 
 👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻 I'm interested in Web Development and Open-Source Contribution. <br />
