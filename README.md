@@ -1,5 +1,5 @@
-# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Jyoti Garde](https://github.com/JyotiGarde-27)
-
+# Hey! <br/> I'm [Jyoti Garde](https://github.com/JyotiGarde-27)
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
 <img src="https://user-images.githubusercontent.com/67336818/155833138-a4ea52e6-2617-4c5c-a9ed-04d692aa4dd2.png">
 
 👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
