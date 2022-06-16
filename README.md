@@ -4,7 +4,8 @@
 
 👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻 I'm interested in Web Development and Open-Source Contribution. <br />
-🚀 Learning and Exploring Web Development.
+🚀 Learning and Exploring Web Development. <br /> <br />
+![Visitor Count](https://profile-counter.glitch.me/JyotiGarde-27/count.svg)
 
 ---
 
